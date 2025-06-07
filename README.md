@@ -1,5 +1,7 @@
 # A collection of Data Analysis Projects.
 
+# lets goo!
+
 ## 1. Pizzeria Place Data Analysis Project.
 
 See Documment in the Pizza Place PowerBI Folder
