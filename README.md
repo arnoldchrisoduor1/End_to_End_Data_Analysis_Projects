@@ -19,7 +19,7 @@ See Documment in the Pizza Place PowerBI Folder
 
 ![Screenshot 2024-05-28 102026](https://github.com/arnoldchrisoduor1/End_to_End_Data_Analysis_Projects/assets/109024629/e0e0cdc9-a0be-452a-8358-1a41ad226c70)
 
-
+More projects to come.
 
 
 Talk to me on twitter @ `arnold0duor`
